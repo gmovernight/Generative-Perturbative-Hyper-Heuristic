@@ -157,12 +157,6 @@ Suggested directory layout:
 
 ---
 
-## License
-
-Choose a license (e.g., MIT) and add a `LICENSE` file.
-
----
-
 ## Acknowledgements
 
 - Benchmark definitions are adapted from classic f1–f24 test functions with a convenient registry and bounds for D = 10/30/50.
